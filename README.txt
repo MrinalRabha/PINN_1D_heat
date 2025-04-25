@@ -6,4 +6,4 @@ U(0,t)=0
 U(1,t)=0                        
 0<t<1                                                 
 0<x<1                                                                   
-exact solution :exp(-d*pi*t^2)*sin(pi*x)
+exact solution :exp(-D*pi*t^2)*sin(pi*x)
